@@ -1,0 +1,2 @@
+rootProject.name='Subs Exchange (Youtube)'
+include ':app'
